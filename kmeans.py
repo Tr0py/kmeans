@@ -114,7 +114,7 @@ if __name__ == '__main__':
     y3 = gen_normal(15,10,90).tolist()
     x4 = gen_normal(30,13,180).tolist()
     y4 = gen_normal(60,24,180).tolist()
-    f = open("py.txt","w")
+    f = open("data.txt","w")
     
     x1.extend(x2)
     y1.extend(y2)
